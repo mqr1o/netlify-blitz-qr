@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deluxe-wisp-2f60c7.netlify.app/sitemap.xml
