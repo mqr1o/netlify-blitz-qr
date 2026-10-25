@@ -1,0 +1,11 @@
+Blitz QR · Free QR Code Generator with Logo
+
+Imported from: https://deluxe-wisp-2f60c7.netlify.app
+Netlify project: deluxe-wisp-2f60c7
+Published deployment: 6ac707bc5bb77d63a1a30452
+Published at: 2026-10-08T03:02:20.468Z
+
+Original deployed files are preserved in the recovery export.
+The main branch uses project-relative asset URLs and disables Jekyll
+processing so this static site can be served by GitHub Pages.
+Historical Netlify project snapshots are kept on named branches.
